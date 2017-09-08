@@ -1,6 +1,6 @@
 {
   "name": "react-webpack-babel",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React Webpack Babel Starter Kit",
   "main": "''",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/nsdnwe/react-webpack-babel-template"
   },
-  "author": "Ali Al Dallal => Niko Wessman",
+  "author": "Niko Wessman",
   "license": "MIT",
   "homepage": "https://github.com/nsdnwe/",
   "dependencies": {
